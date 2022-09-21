@@ -1,0 +1,7 @@
+# ignored items
+**/bin
+**.raw
+**.csv
+**.raw
+**.sp
+**.subckt

@@ -283,7 +283,7 @@ class Agent:
         self.optimizer.step()
 
 
-episodes = 3000
+episodes = 1
 dnn = Agent(dcnum=10, action_space=50)
 target_vdi = 0.9e-10        # 1.5 -> 1.2
 reward = []
